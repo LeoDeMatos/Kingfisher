@@ -184,3 +184,4 @@ extension KingfisherWrapper where Base: WKInterfaceImage {
         set { }
     }
 }
+#endif

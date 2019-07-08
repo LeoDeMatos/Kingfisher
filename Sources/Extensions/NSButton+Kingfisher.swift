@@ -322,3 +322,5 @@ extension KingfisherWrapper where Base: NSButton {
         set { }
     }
 }
+
+#endif
